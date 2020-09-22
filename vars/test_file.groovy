@@ -1,3 +1,4 @@
+#!/usr/bin/env groovy
 def call(){
   def name = 'batman'
   def city = 'Gotham'
