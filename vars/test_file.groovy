@@ -6,9 +6,5 @@ def call(){
   
   if (name == 'batman'){
     sh 'echo this is batman'
-  } else if (city=='Gotham'){
-      sh 'echo this is Gotham city'
-    } else(villain=='joker'){
-        sh 'echo this is joker'
-  }
+  } 
 }
